@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/gauthier-corion">
   <img align="left" alt="Gauthier Corion LinkedIn" width="22px" src="https://skylord.fr/linkedinn.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=MisterGranti67&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=MrBaguette07&label=PROFILE+VIEWS" />
 </br>
 
 <div>
