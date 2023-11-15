@@ -38,4 +38,4 @@
   </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterGranti67&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaguette07&layout=compact&theme=buefy&hide_border=true" />
