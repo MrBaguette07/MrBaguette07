@@ -9,7 +9,7 @@
   <img width="400px" align="right" src="https://skylord.fr/this-is-fine.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul> 
-    <li>🧐 I study at the University Littoral Côté d'Opale in the 2nd year of BUT Informatique.</li>
+    <li>🧐 I am studying at Littoral Côté d'Opale University in the 3rd year of BUT Informatique.</li>
     <li>👨‍💻 Most of my projects are available on <a href="https://gauthiercorion.fr">my portfolio website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/gauthier-corion">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Entrepreneurship, Full Stack Web, Minecraft, Roblox</strong>.</li>
