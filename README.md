@@ -12,7 +12,7 @@
     <li>🧐 I study at the University Littoral Côté d'Opale in the 2nd year of BUT Informatique.</li>
     <li>👨‍💻 Most of my projects are available on <a href="https://gauthiercorion.fr">my portfolio website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/gauthier-corion">LinkedIn</a>.</li>
-    <li>💬 Ping me about <strong>Backend, Frontend, Web, Minecraft, Entrepreneurship</strong>.</li>
+    <li>💬 Ping me about <strong>Entrepreneurship, Full Stack Web, Minecraft, Roblox</strong>.</li>
     <li><img src="https://skylord.fr/french.png" style="width: 16px;"> My nationality : French.</li>
     <li>🎉 Fun Fact: I hate spinach.</li>
     <li>To support me in my projects and my own business, I accept paypal donations <a href="https://www.paypal.me/mrbaguette078"><img src="https://skylord.fr/paypal.svg"></a></li>
