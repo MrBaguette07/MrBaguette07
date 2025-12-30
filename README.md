@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge&logoColor=white)](https://gauthiercorion.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauthier-corion)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gauthiercorion.fr)
-[![Seapalm](https://img.shields.io/badge/🌊_Seapalm-00d4aa?style=for-the-badge&logoColor=white)](https://seapalm.pro)
+[![Seapalm](https://img.shields.io/badge/🌊_Seapalm-00d4aa?style=for-the-badge&logoColor=white)](https://seapalm.fr)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrBaguette07&label=Visiteurs&color=0ea5e9&style=flat-square)
 
@@ -24,7 +24,7 @@
 ## 👋 Hello World !
 
 > Développeur full-stack & entrepreneur basé à **Lille, France** 🇫🇷  
-> Actuellement en **Master 5 Informatique** et co-fondateur de **[Seapalm](https://seapalm.pro)**  
+> Actuellement en **Master 5 Informatique** et co-fondateur de **[Seapalm](https://seapalm.fr)**  
 > Je transforme des idées en applications qui ont de l'impact 💡
 
 <div align="center">
@@ -77,7 +77,7 @@ Nous créons des **solutions web sur mesure** qui font la différence
 
 🎮 **Jeux UGC** • 🌐 **Plateformes SaaS** • 💻 **Sites web** • 🖥️ **Infrastructure**
 
-[![Visit Seapalm](https://img.shields.io/badge/Découvrir_Seapalm-00d4aa?style=for-the-badge&logo=webpack&logoColor=white)](https://seapalm.pro)
+[![Visit Seapalm](https://img.shields.io/badge/Découvrir_Seapalm-00d4aa?style=for-the-badge&logo=webpack&logoColor=white)](https://seapalm.fr)
 
 </div>
 
