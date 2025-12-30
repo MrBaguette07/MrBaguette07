@@ -122,13 +122,13 @@ Nous créons des **solutions web sur mesure** qui font la différence
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ [Zonix](https://zonix.app)
+### 🗺️ [Zonix](https://zonix.fr)
 Application mobile de **conquête territoriale**  
 Transforme chaque course en aventure GPS
 
 **Stack:** `Vue.js` `Go` `Tauri` `PostgreSQL`
 
-[![Voir le projet](https://img.shields.io/badge/Découvrir-0ea5e9?style=flat-square)](https://zonix.app)
+[![Voir le projet](https://img.shields.io/badge/Découvrir-0ea5e9?style=flat-square)](https://zonix.fr)
 
 </td>
 <td width="50%" valign="top">
