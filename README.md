@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28&height=200&section=header&text=Gauthier%20Corion&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20and%20Co-founder&descAlignY=55&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28&height=200&section=header&text=Gauthier%20Corion&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Développeur%20and%20Entrepreneur&descAlignY=55&descSize=25)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Co-fondateur+@+Seapalm+🌊;10%2B+années+d'expérience+💼;20%2B+projets+réalisés+🚀;Passionné+par+l'innovation+💡)](https://git.io/typing-svg)
 
@@ -180,8 +180,6 @@ Serveur **Minecraft** communautaire
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrBaguette07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=00D4AA&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaguette07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" />
-
 <br><br>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrBaguette07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=00D4AA&point=FFFFFF)](https://github.com/MrBaguette07)
