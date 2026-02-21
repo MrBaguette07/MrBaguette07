@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge&logoColor=white)](https://gauthiercorion.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauthier-corion)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gauthiercorion.fr)
+[![Email](https://img.shields.io/badge/contact@gauthiercorion.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gauthiercorion.fr)
 [![Seapalm](https://img.shields.io/badge/🌊_Seapalm-00d4aa?style=for-the-badge&logoColor=white)](https://seapalm.fr)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrBaguette07&label=Visiteurs&color=0ea5e9&style=flat-square)
@@ -64,26 +64,6 @@ co-fondée
 </td>
 </tr>
 </table>
-
-## 📫 Contact
-
-<div align="center">
-
-**Parlons de votre prochain projet !**
-
-🚀 **Projets web & SaaS** • 💡 **Collaboration** • 🎮 **Jeux UGC** • 💼 **Entrepreneuriat**
-
-<br>
-
-[![Email](https://img.shields.io/badge/contact@gauthiercorion.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gauthiercorion.fr)
-[![LinkedIn](https://img.shields.io/badge/Gauthier_Corion-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauthier-corion)
-[![Portfolio](https://img.shields.io/badge/gauthiercorion.fr-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gauthiercorion.fr)
-
-📍 **Lille, France**
-
-</div>
-
-<br>
 
 <div align="center">
 
