@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logoColor=white)](https://gauthiercorion.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauthier-corion)
-[![Email](https://img.shields.io/badge/contact@gauthiercorion.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gauthiercorion.fr)
+[![Email](https://img.shields.io/badge/gauthier.corion@seapalm.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauthier.corion@seapalm.fr)
 [![Seapalm](https://img.shields.io/badge/🏝️_Seapalm-00d4aa?style=for-the-badge&logoColor=white)](https://seapalm.fr)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrBaguette07&label=Visiteurs&color=0ea5e9&style=flat-square)
