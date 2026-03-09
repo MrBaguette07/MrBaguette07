@@ -2,7 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28&height=200&section=header&text=Gauthier%20Corion&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Développeur%20et%20Entrepreneur&descAlignY=55&descSize=25)
 
-<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logoColor=white)](https://gauthiercorion.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauthier-corion)
